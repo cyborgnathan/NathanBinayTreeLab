@@ -6,10 +6,6 @@
           <option name="url" value="https://github.com/cyborgnathan/Hello-World.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/cyborgnathan/LinkedList.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Nathan\IdeaProjects" />
